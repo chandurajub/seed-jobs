@@ -19,3 +19,5 @@ pipelineJob('CIJOBS/ratings') {
     }
   }
 }
+
+
